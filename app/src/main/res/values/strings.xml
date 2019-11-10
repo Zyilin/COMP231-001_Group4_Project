@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">TimeCheckApplication</string>
+    <string name="logoDescription">Time Check Logo</string>
+    <string name="acceptButton">Accept</string>
+    <string name="description">Time Check is the application made for both student and faculty that
+    make them comfortable to check their schedule. It provides timetable view and functions related
+    to build or edit time table. Extra features will be a communication features that help student
+    and faculty to communicate in better way. With friendly UI and Funtions, Time Check will be a best
+    application for users.</string>
 </resources>
